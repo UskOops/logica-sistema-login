@@ -1,0 +1,14 @@
+*{
+    margin: 0 auto;
+}
+
+#dvConteudo{
+    padding:10px;
+        border:1px solid #e7e7e7;
+    background-color: #F8F8F8;
+}
+
+.max-width{
+    max-width: 1024px;
+    width:100%;
+}
